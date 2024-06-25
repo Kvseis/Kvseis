@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Kvseis
+ Hi, I’m @Kvseis
 
 - 👀 I’m interested in web development and everything about building beautiful, functional, and user-friendly websites.
 - 🌱 I’m currently learning and improving my skills in HTML, CSS, SCSS, JavaScript, Python, Bootstrap, and jQuery.
