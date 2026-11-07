@@ -2,8 +2,6 @@
 
 <img src="./assets/merfect-banner.jpg" width="100%" alt="Merfect — product brand by Kvseis" />
 
-<br />
-
 # Hi, I'm Məmməd Rzayev
 
 ### Developer · Product Builder · Founder of Merfect
@@ -85,37 +83,32 @@ Creating fast, responsive, and polished web experiences with attention to usabil
 
 ## `03` Technology Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="34%" align="center" valign="top">
+<h3>Frontend & Web</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=5" width="235" alt="React, Next.js, JavaScript, HTML5 and CSS3" />
+<p><strong>React · Next.js</strong><br />JavaScript · HTML5 · CSS3<br />Responsive interfaces</p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>Backend & Data</h3>
+<img src="https://skillicons.dev/icons?i=python,firebase,sqlite&theme=dark&perline=3" width="155" alt="Python, Firebase and SQLite" />
+<p><strong>Python · Firebase</strong><br />SQLite · Data persistence<br />API integration</p>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>AI & Workflow</h3>
+<img src="https://skillicons.dev/icons?i=git,githubactions,discord&theme=dark&perline=3" width="155" alt="Git, GitHub Actions and Discord" />
+<p><strong>Gemini API · discord.py</strong><br />Git · GitHub Actions<br />pytest · Automated testing</p>
+</td>
+</tr>
+</table>
 
-### Frontend & Web
+<p align="center">
+<strong>Product & UI/UX</strong><br />
+User flows · Interface structure · Usability · Visual clarity · Product thinking
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" width="455" alt="React, Next.js, JavaScript, HTML5 and CSS3" />
-
-<br />
-
-<sub>React · Next.js · JavaScript · HTML5 · CSS3</sub>
-
-<br /><br />
-
-### Application Logic & Services
-
-<img src="https://skillicons.dev/icons?i=python,firebase&theme=dark" width="180" alt="Python and Firebase" />
-
-<br />
-
-<sub>Python · Firebase</sub>
-
-<br /><br />
-
-### Product & Interface Design
-
-<strong>UI/UX · User flows · Usability · Visual clarity</strong>
-
-</div>
-
-<br />
-
-I use this stack to move from an idea to a working product while keeping the experience responsive, understandable, and maintainable.
+I use this stack to move from an idea to a working product while keeping the experience responsive, understandable, testable, and maintainable.
 
 ## `04` How I Work
 
@@ -149,11 +142,9 @@ For collaboration, freelance inquiries, or a conversation about a product:
 
 **[dveceses@gmail.com](mailto:dveceses@gmail.com)**
 
-<br />
-
 **Think → Build → Improve**
 
-<br /><br />
+<br />
 
 <sub>Building products under <strong>Merfect.</strong></sub>
 
