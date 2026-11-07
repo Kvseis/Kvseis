@@ -1,69 +1,125 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/141058391?v=4" width="112" alt="Kvseis profile avatar" />
+<img src="./assets/kvseis-banner.jpg" width="100%" alt="Kvseis — Build, Design, Ship" />
 
-# Hi, I'm Kvseis.
+<br />
 
-### I turn real-world problems into focused digital products.
+# Hi, I'm Kvseis
 
-<p>
-  Mobile Apps &nbsp;•&nbsp; SaaS &nbsp;•&nbsp; AI Tools &nbsp;•&nbsp; High-Performance Web
-</p>
+### Developer · Product Builder · Entrepreneurial Thinker
 
-[![Email](https://img.shields.io/badge/Email-dveceses%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:dveceses@gmail.com)
-[![CareerCompass](https://img.shields.io/badge/Featured-CareerCompass-0D1117?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/Kvseis/CareerCompass)
+I build practical digital products around real-world problems — from mobile experiences and SaaS ideas to AI-powered tools and high-performance web applications.
+
+[![Email](https://img.shields.io/badge/LET'S_TALK-dveceses%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=0D1117)](mailto:dveceses@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-KVSEIS-0D1117?style=for-the-badge&logo=github&logoColor=39D353&labelColor=0D1117)](https://github.com/Kvseis)
 
 </div>
 
 ---
 
-## What I Build
+## `01` About Me
 
-I focus on creating useful, well-designed software across **mobile applications**, **SaaS products**, **AI-powered tools**, and **fast web experiences**.
+I'm interested in the point where **technology, thoughtful design, and entrepreneurship** meet.
 
-My approach combines engineering, UI/UX thinking, and an entrepreneurial mindset: understand the problem, reduce complexity, and build something people can genuinely use.
+My goal is simple: understand a real problem, remove unnecessary complexity, and shape the solution into something clear, useful, and reliable. I care about both how a product works and how it feels to use.
 
-## Featured Project
+- Building across **mobile apps, SaaS, AI, and the web**
+- Thinking in terms of **users, products, and practical outcomes**
+- Exploring ideas with an **entrepreneurial mindset**
+- Valuing **clarity, performance, and purposeful UI/UX**
 
-### [CareerCompass](https://github.com/Kvseis/CareerCompass)
+## `02` What I Focus On
 
-An AI-powered Discord bot designed to help young people and career changers explore suitable career paths through guided tests, career discovery, personalized recommendations, and AI conversations.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Built with:** Python 3.11+, discord.py, Google Gemini AI, SQLite
+### ◈ Product Engineering
 
-[![Explore CareerCompass](https://img.shields.io/badge/Explore_the_repository-161B22?style=for-the-badge&logo=github&logoColor=39D353)](https://github.com/Kvseis/CareerCompass)
+Turning ideas into focused digital experiences with clean structure and a clear purpose.
 
-## Technology Stack
+</td>
+<td width="50%" valign="top">
+
+### ◈ Mobile & SaaS
+
+Exploring useful mobile experiences and scalable software products built around real needs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI-Powered Tools
+
+Applying AI where it can improve a workflow, support a decision, or make a product more useful.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ High-Performance Web
+
+Creating fast, responsive, and polished web experiences with attention to usability.
+
+</td>
+</tr>
+</table>
+
+## `03` Technology Stack
 
 <div align="center">
 
 [![React, Next.js, Firebase, Python, JavaScript, HTML and CSS](https://skillicons.dev/icons?i=react,nextjs,firebase,python,js,html,css&theme=dark&perline=7)](https://github.com/Kvseis)
 
-![UI/UX](https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&logoColor=39D353)
+<br />
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=39D353)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=39D353)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39D353)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39D353)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=39D353)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=39D353)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0D1117?style=flat-square&logoColor=39D353)
 
 </div>
 
-## How I Think
+## `04` How I Work
 
 ```text
-Real problem → Clear idea → Thoughtful design → Reliable product
+Discover the problem
+        ↓
+Define the simplest useful solution
+        ↓
+Design with clarity
+        ↓
+Build for performance and reliability
+        ↓
+Learn, refine, ship
 ```
 
-- Build around real user needs.
-- Keep interfaces clear and purposeful.
-- Treat performance and maintainability as product features.
-- Explore how technology and entrepreneurship can create practical value.
+## `05` Consistency
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kvseis&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E)](https://github.com/Kvseis)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### Have an idea worth building?
 
-For project inquiries, collaboration, or a conversation about an idea:
+For collaboration, freelance inquiries, or a conversation about a product:
 
 **[dveceses@gmail.com](mailto:dveceses@gmail.com)**
 
-<sub>Designed with a dark-tech aesthetic and a practical-product mindset.</sub>
+<br />
+
+<img src="https://img.shields.io/badge/BUILD-39D353?style=for-the-badge&labelColor=0D1117" alt="Build" />
+<img src="https://img.shields.io/badge/DESIGN-39D353?style=for-the-badge&labelColor=0D1117" alt="Design" />
+<img src="https://img.shields.io/badge/SHIP-39D353?style=for-the-badge&labelColor=0D1117" alt="Ship" />
 
 </div>
