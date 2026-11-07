@@ -4,7 +4,7 @@
 
 <br />
 
-# Hi, I'm Kvseis
+# Hi, I'm Məmməd Rzayev
 
 ### Developer · Product Builder · Building Merfect.
 
