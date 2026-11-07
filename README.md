@@ -8,9 +8,7 @@
 
 I build practical digital products around real-world problems — from mobile experiences and SaaS ideas to AI-powered tools and high-performance web applications.
 
-[![Email](https://img.shields.io/badge/LET'S_TALK-dveceses%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00C968&labelColor=0D1117)](mailto:dveceses@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-KVSEIS-0D1117?style=for-the-badge&logo=github&logoColor=00C968&labelColor=0D1117)](https://github.com/Kvseis)
-![Merfect](https://img.shields.io/badge/BRAND-MERFECT.-00C968?style=for-the-badge&labelColor=0D1117&color=00C968)
+[EMAIL](mailto:dveceses@gmail.com) &nbsp;·&nbsp; [GITHUB](https://github.com/Kvseis) &nbsp;·&nbsp; **MERFECT.**
 
 </div>
 
@@ -22,9 +20,9 @@ I build practical digital products around real-world problems — from mobile ex
 <tr>
 <td width="76%" valign="middle">
 
-I'm building **Merfect**, my own product brand at the intersection of technology, thoughtful design, and entrepreneurship.
+I am the founder of **Merfect**, a digital product agency focused on building ambitious web platforms, mobile applications, and SaaS products.
 
-My goal is simple: understand a real problem, remove unnecessary complexity, and shape the solution into something clear, useful, and reliable. I care about both how a product works and how it feels to use.
+Merfect brings product strategy, UI/UX, and engineering together to turn strong ideas into polished digital products. I lead the product direction with a focus on clarity, performance, scalability, and real-world value.
 
 </td>
 <td width="24%" align="center" valign="middle">
@@ -41,7 +39,7 @@ My goal is simple: understand a real problem, remove unnecessary complexity, and
 
 - Building across **mobile apps, SaaS, AI, and the web**
 - Thinking in terms of **users, products, and practical outcomes**
-- Developing ideas under the **Merfect** brand
+- Leading product direction and digital work under **Merfect**
 - Valuing **clarity, performance, and purposeful UI/UX**
 
 ## `02` What I Focus On
@@ -83,32 +81,26 @@ Creating fast, responsive, and polished web experiences with attention to usabil
 
 ## `03` Technology Stack
 
-<table>
-<tr>
-<td width="34%" align="center" valign="top">
-<h3>Frontend & Web</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=5" width="235" alt="React, Next.js, JavaScript, HTML5 and CSS3" />
-<p><strong>React · Next.js</strong><br />JavaScript · HTML5 · CSS3<br />Responsive interfaces</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3>Backend & Data</h3>
-<img src="https://skillicons.dev/icons?i=python,firebase,sqlite&theme=dark&perline=3" width="155" alt="Python, Firebase and SQLite" />
-<p><strong>Python · Firebase</strong><br />SQLite · Data persistence<br />API integration</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3>AI & Workflow</h3>
-<img src="https://skillicons.dev/icons?i=git,githubactions,discord&theme=dark&perline=3" width="155" alt="Git, GitHub Actions and Discord" />
-<p><strong>Gemini API · discord.py</strong><br />Git · GitHub Actions<br />pytest · Automated testing</p>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<p align="center">
-<strong>Product & UI/UX</strong><br />
-User flows · Interface structure · Usability · Visual clarity · Product thinking
-</p>
+### Frontend & Web
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=5" width="420" alt="React, Next.js, JavaScript, HTML5 and CSS3" />
+<p><strong>React · Next.js · JavaScript · HTML5 · CSS3</strong><br />Responsive interfaces · Performance-focused web experiences</p>
 
-I use this stack to move from an idea to a working product while keeping the experience responsive, understandable, testable, and maintainable.
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=python,firebase,sqlite&theme=dark&perline=3" width="210" alt="Python, Firebase and SQLite" />
+<p><strong>Python · Firebase · SQLite</strong><br />Application logic · Data persistence · API integration</p>
+
+### AI & Development Workflow
+<img src="https://skillicons.dev/icons?i=git,githubactions,discord&theme=dark&perline=3" width="210" alt="Git, GitHub Actions and Discord" />
+<p><strong>Gemini API · discord.py · Git</strong><br />GitHub Actions · pytest · Automated testing</p>
+
+### Product & UI/UX
+<p><strong>User flows · Interface structure · Usability · Visual clarity · Product thinking</strong></p>
+
+</div>
+
+I use this stack to take products from concept to a working release while keeping the experience responsive, understandable, testable, and maintainable.
 
 ## `04` How I Work
 
@@ -138,7 +130,7 @@ Learn, refine, ship
 
 ### Have an idea worth building?
 
-For collaboration, freelance inquiries, or a conversation about a product:
+For web platforms, mobile applications, SaaS products, or product collaboration:
 
 **[dveceses@gmail.com](mailto:dveceses@gmail.com)**
 
