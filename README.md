@@ -6,7 +6,7 @@
 
 # Hi, I'm Məmməd Rzayev
 
-### Developer · Product Builder · Building Merfect.
+### Developer · Product Builder · CEO of MERFECT.
 
 I build practical digital products around real-world problems — from mobile experiences and SaaS ideas to AI-powered tools and high-performance web applications.
 
