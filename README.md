@@ -8,7 +8,7 @@
 
 I build practical digital products around real-world problems — from mobile experiences and SaaS ideas to AI-powered tools and high-performance web applications.
 
-[![Contact](https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00C968)](mailto:dveceses@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00C968)](mailto:merfectoo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00C968)](https://github.com/Kvseis)
 ![Merfect](https://img.shields.io/badge/-MERFECT.-00C968?style=for-the-badge)
 
@@ -138,7 +138,7 @@ Through **Merfect**, I am focused on:
 
 For web platforms, mobile applications, SaaS products, or product collaboration:
 
-**[dveceses@gmail.com](mailto:dveceses@gmail.com)**
+**[merfectoo@gmail.com](mailto:merfectoo@gmail.com)**
 
 **Think → Build → Improve**
 
