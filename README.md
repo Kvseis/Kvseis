@@ -1,149 +1,49 @@
 <div align="center">
 
-<img src="./assets/merfect-banner.jpg" width="100%" alt="Merfect — product brand by Kvseis" />
+<img src="./assets/merfect-banner.jpg" width="100%" alt="Merfect" />
 
-# Hi, I'm Məmməd Rzayev
+# Məmməd Rzayev
 
-### Developer · Product Builder · Founder of Merfect
+**Software Developer · Founder of Merfect**
 
-I build practical digital products around real-world problems — from mobile experiences and SaaS ideas to AI-powered tools and high-performance web applications.
+I design and build software that makes everyday tasks easier.
 
-[![Contact](https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00C968)](mailto:merfectoo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00C968)](https://github.com/Kvseis)
-![Merfect](https://img.shields.io/badge/-MERFECT.-00C968?style=for-the-badge)
+[![Contact](https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=32D583)](mailto:merfectoo@gmail.com)
+[![About Merfect](https://img.shields.io/badge/ABOUT%20MERFECT-17623E?style=for-the-badge)](#merfect)
 
 </div>
 
----
-
-## `01` About Me
-
-<table>
-<tr>
-<td width="76%" valign="middle">
-
-I am the founder of **Merfect**, a digital product agency focused on building ambitious web platforms, mobile applications, and SaaS products.
-
-Merfect brings product strategy, UI/UX, and engineering together to turn strong ideas into polished digital products. I lead the product direction with a focus on clarity, performance, scalability, and real-world value.
-
-</td>
-<td width="24%" align="center" valign="middle">
+## Merfect
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/merfect-mark-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/merfect-mark-light.png">
-  <img src="./assets/merfect-mark-light.png" width="145" alt="Merfect monogram">
+  <img src="./assets/merfect-mark-light.png" align="right" width="108" alt="Merfect monogram" />
 </picture>
 
-</td>
-</tr>
-</table>
+I founded **Merfect**, a digital product agency that brings design and software engineering together to build web platforms, mobile apps, and SaaS products.
 
-- Building across **mobile apps, SaaS, AI, and the web**
-- Thinking in terms of **users, products, and practical outcomes**
-- Leading product direction and digital work under **Merfect**
-- Valuing **clarity, performance, and purposeful UI/UX**
+I'm drawn to entrepreneurship because it starts with questions about people and their problems. I like finding out how people solve a problem today, testing a small prototype, and using their feedback to decide what to build next.
 
-## `02` What I Focus On
+<h2 align="center">Technology Stack</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <strong>Frontend &amp; UI/UX</strong><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&amp;theme=dark" width="260" alt="" /><br />
+  React · Next.js · JavaScript · HTML · CSS<br />
+  Responsive interfaces · User flows · Usability
+</p>
 
-### ◈ Product Engineering
-
-Turning ideas into focused digital experiences with clean structure and a clear purpose.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Mobile & SaaS
-
-Exploring useful mobile experiences and scalable software products built around real needs.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ AI-Powered Tools
-
-Applying AI where it can improve a workflow, support a decision, or make a product more useful.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ High-Performance Web
-
-Creating fast, responsive, and polished web experiences with attention to usability.
-
-</td>
-</tr>
-</table>
-
-## `03` Technology Stack
-
-<div align="center">
-
-### Frontend & Web
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=5" width="420" alt="React, Next.js, JavaScript, HTML5 and CSS3" />
-<p><strong>React · Next.js · JavaScript · HTML5 · CSS3</strong><br />Responsive interfaces · Performance-focused web experiences</p>
-
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=python,firebase,sqlite&theme=dark&perline=3" width="210" alt="Python, Firebase and SQLite" />
-<p><strong>Python · Firebase · SQLite</strong><br />Application logic · Data persistence · API integration</p>
-
-### AI & Development Workflow
-<img src="https://skillicons.dev/icons?i=git,githubactions,discord&theme=dark&perline=3" width="210" alt="Git, GitHub Actions and Discord" />
-<p><strong>Gemini API · discord.py · Git</strong><br />GitHub Actions · pytest · Automated testing</p>
-
-### Product & UI/UX
-<p><strong>User flows · Interface structure · Usability · Visual clarity · Product thinking</strong></p>
-
-</div>
-
-I use this stack to take products from concept to a working release while keeping the experience responsive, understandable, testable, and maintainable.
-
-## `04` How I Work
-
-```text
-Discover the problem
-        ↓
-Define the simplest useful solution
-        ↓
-Design with clarity
-        ↓
-Build for performance and reliability
-        ↓
-Learn, refine, ship
-```
-
-## `05` Entrepreneurship & Current Direction
-
-Entrepreneurship is an important part of how I approach technology. I am interested not only in writing code, but also in identifying valuable problems, validating ideas, shaping products, and building solutions that can grow.
-
-Through **Merfect**, I am focused on:
-
-- Turning strong ideas into clear and useful digital products
-- Building web platforms, mobile applications, and SaaS experiences
-- Connecting product strategy, UI/UX, technology, and business thinking
-- Learning from real users and improving products through feedback
-- Growing as both a developer and an entrepreneur
+<p align="center">
+  <strong>Backend, AI &amp; Testing</strong><br />
+  <img src="https://skillicons.dev/icons?i=python,firebase,sqlite,discord,git,githubactions&amp;theme=dark" width="313" alt="" /><br />
+  Python · Firebase · SQLite · Gemini API · discord.py<br />
+  Git · GitHub Actions · pytest
+</p>
 
 ---
 
-<div align="center">
-
-### Have an idea worth building?
-
-For web platforms, mobile applications, SaaS products, or product collaboration:
-
-**[merfectoo@gmail.com](mailto:merfectoo@gmail.com)**
-
-**Think → Build → Improve**
-
-<br />
-
-<sub>Building products under <strong>Merfect.</strong></sub>
-
-</div>
+<p align="center">
+  For project inquiries and collaboration<br />
+  <a href="mailto:merfectoo@gmail.com">merfectoo@gmail.com</a>
+</p>
