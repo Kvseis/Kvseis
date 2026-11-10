@@ -116,13 +116,17 @@ Build for performance and reliability
 Learn, refine, ship
 ```
 
-## `05` Consistency
+## `05` Entrepreneurship & Current Direction
 
-<div align="center">
+Entrepreneurship is an important part of how I approach technology. I am interested not only in writing code, but also in identifying valuable problems, validating ideas, shaping products, and building solutions that can grow.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kvseis&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00C968&fire=00C968&currStreakLabel=00C968&sideLabels=C9D1D9&dates=8B949E)](https://github.com/Kvseis)
+Through **Merfect**, I am focused on:
 
-</div>
+- Turning strong ideas into clear and useful digital products
+- Building web platforms, mobile applications, and SaaS experiences
+- Connecting product strategy, UI/UX, technology, and business thinking
+- Learning from real users and improving products through feedback
+- Growing as both a developer and an entrepreneur
 
 ---
 
